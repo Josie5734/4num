@@ -20,4 +20,4 @@ Pictures of the whole process can be found in the images folder, CAD files in th
 
 The CAD folder also contains numpad_design.json, which is a layout created with [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/), designed to be pasted into [Plate & Case Builder](http://builder.swillkb.com/) to generate .dxf files. I then modified the outputted file to include things like the cutouts for the pro micro and OLED
 
-[image of CAD design](images/CAD_plate.png)
+![image of CAD design](images/CAD_plate.png "top plate")
